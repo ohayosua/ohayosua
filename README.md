@@ -6,6 +6,7 @@
 📧 **Email:** [yosua.jsaputra@gmail.com](mailto:yosua.jsaputra@gmail.com)  
 🔗 **LinkedIn:** [yosua-saputra](https://www.linkedin.com/in/yosua-saputra/)  
 👨‍💻 **GitHub:** [ohayosua](https://github.com/ohayosua)
+📝 **Website:** [yosuajsaputra](https://ohayosua.github.io/yosuajsaputra/)
 
 
 ### About Me 🌐
