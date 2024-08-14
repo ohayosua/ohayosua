@@ -9,7 +9,7 @@
 
 
 ### About Me 🌐
-Over 2 years of experience in working with Data, I am an experienced Data Analyst with a passion for transforming complex data into actionable insights for driving data-driven decisions.
+With over two years of experience working with data, I am an experienced Data Analyst with a passion for transforming complex data into actionable insights for driving data-driven decisions.
 
 
 ### My Professional Journey in Data 🌟
